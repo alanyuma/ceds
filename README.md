@@ -1,7 +1,7 @@
 # ceds
 Comprehensive Economic Development Strategy - CEDS
 
-A helpful W3 CSS Float layout for an Economic Development Administration (EDA) required Comprehensive Economic Development Strategy (CEDS) long-form document; for possible use by any Economic Devlopment District.
+A helpful W3 CSS Float layout for an Economic Development Administration (EDA) required Comprehensive Economic Development Strategy (CEDS) long-form document; for possible use by any Economic Development District.
 
 From the regulations governing the CEDS (see 13 C.F.R. § 303.7), the following sections must be included in the CEDS document:
 
