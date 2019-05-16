@@ -16,3 +16,5 @@ _ Strategic Direction/Action Plan: The strategic direction and action plan shoul
 _ The action plan should also identify the stakeholder(s) responsible for implementation, timetables, and opportunities for the integrated use of other local, state, and federal funds;
 
 _ Evaluation Framework: Performance measures used to evaluate the organization’s implementation of the CEDS and impact on the regional economy.
+
+Designed by a Human ⁞ IDE: Brackets, CCS3, FileZilla, JS, Scrivener, Sublime Text, W3Schools ⁞ Powered by HTML5
