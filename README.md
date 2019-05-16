@@ -6,6 +6,7 @@ A helpful W3 CSS Float layout for an Economic Development Administration (EDA) r
 From the regulations governing the CEDS (see 13 C.F.R. § 303.7), the following sections must be included in the CEDS document:
 
 Summary Background: A summary background of the economic conditions of the region;
+
 (a) SWOT Analysis: An in-depth analysis of regional strengths, weaknesses, opportunities and threats (commonly known as a “SWOT” analysis);
 
 (b)Strategic Direction/Action Plan: The strategic direction and action plan should build on findings from the SWOT analysis and incorporate/integrate elements from other regional plans (e.g., land use and transportation, workforce development, etc.) where appropriate as determined by the EDD or community/region engaged in development of the CEDS.  
