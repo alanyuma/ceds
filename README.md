@@ -9,8 +9,8 @@ Summary Background: A summary background of the economic conditions of the regio
 
 (a) SWOT Analysis: An in-depth analysis of regional strengths, weaknesses, opportunities and threats (commonly known as a “SWOT” analysis);
 
-(b)Strategic Direction/Action Plan: The strategic direction and action plan should build on findings from the SWOT analysis and incorporate/integrate elements from other regional plans (e.g., land use and transportation, workforce development, etc.) where appropriate as determined by the EDD or community/region engaged in development of the CEDS.  
+(b) Strategic Direction/Action Plan: The strategic direction and action plan should build on findings from the SWOT analysis and incorporate/integrate elements from other regional plans (e.g., land use and transportation, workforce development, etc.) where appropriate as determined by the EDD or community/region engaged in development of the CEDS.  
 
 (c) The action plan should also identify the stakeholder(s) responsible for implementation, timetables, and opportunities for the integrated use of other local, state, and federal funds;
 
-(d)Evaluation Framework: Performance measures used to evaluate the organization’s implementation of the CEDS and impact on the regional economy.
+(d) Evaluation Framework: Performance measures used to evaluate the organization’s implementation of the CEDS and impact on the regional economy.
